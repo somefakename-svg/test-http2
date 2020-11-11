@@ -1,4 +1,4 @@
-package http
+package test-http2
 
 import (
 	"time"
