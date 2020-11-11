@@ -1,4 +1,4 @@
-package test-http2
+package http
 
 import (
 	"errors"
